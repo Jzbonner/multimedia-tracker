@@ -4,6 +4,9 @@ This is a repurposed build of a web-application that was used internally at REPL
 ## Builds
 * Main Branch: Next.js, FaunaDB, FQL, and Netlify Deployment 
 
+## Dependencies 
+* This repository includes environment variables that are used to run a FaunaDB instance and support serverless functions. If you want to use this project for your own use, then be sure to setup an account with FaunaDB [here](https://dashboard.fauna.com/accounts/register)
+
 ## Figma Links
 * Link to design files: 
 * Contributors for design elements: 
